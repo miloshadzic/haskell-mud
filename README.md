@@ -9,6 +9,6 @@ When I was a kid, I played quite a few MUDs but most of all I played [JediMUD][j
 
 ## License
 
-[GPLv3][LICENSE]
+[GPLv3](LICENSE)
 
 [jedimud]: http://jedimud.com
